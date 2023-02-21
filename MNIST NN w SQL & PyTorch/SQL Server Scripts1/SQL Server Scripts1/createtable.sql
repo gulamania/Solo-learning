@@ -1602,3 +1602,4 @@ ADD ID int NOT NULL PRIMARY KEY identity(1,1);
 
 ALTER TABLE mnistTableTrain
 ADD ID int NOT NULL PRIMARY KEY identity(1,1);
+go
